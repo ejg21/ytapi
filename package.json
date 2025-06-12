@@ -1,13 +1,12 @@
 {
   "name": "yt-dlp-m3u8-api",
   "version": "1.0.0",
-  "description": "Simple API to get best audio m3u8 from YouTube video using yt-dlp npm package",
+  "description": "Simple API to get best audio m3u8 from YouTube video using yt-dlp CLI",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "yt-dlp": "^1.0.7"
+    "express": "^4.18.2"
   }
 }
